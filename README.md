@@ -8,7 +8,7 @@
 * Themes: Users can choose among different themes.
 
 ## Inspiration
-This is the first Hackathon in my life where I had implemented my development skills. 
+This is the first Hackathon Project where I had implemented my development skills. 
 So I used to create a webapp using html, css & js which will be used in our daily life i.e. **To-do-list**.
 P.S: Many people forget the things they have to do . The to do list will remind them of that things.
 ## What it does
