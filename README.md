@@ -1,5 +1,13 @@
 ## Customizable To-do-list
 
+### *Features*:
+
+* User-friendly
+* Local Storage Supported
+* Displays current Date and Time
+* Responsive, on all devices
+* Themes: Users can choose among different themes.
+
 ## Inspiration
 This is the first Hackathon in my life where I had implemented my development skills. 
 So I used to create a webapp using html, css & js which will be used in our daily life i.e. **To-do-list**.
