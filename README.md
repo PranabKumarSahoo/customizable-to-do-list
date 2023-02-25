@@ -34,8 +34,8 @@ Website Link: [Customize To-do-list](https://customizetodolist.netlify.app)
 
 ![image1](https://github.com/PranabKumarSahoo/customizable-to-do-list/blob/main/Website%20demo%20capture/image1.png)
 
-![image1](https://github.com/PranabKumarSahoo/customizable-to-do-list/blob/main/Website%20demo%20capture/image4.png)
+![image4](https://github.com/PranabKumarSahoo/customizable-to-do-list/blob/main/Website%20demo%20capture/image4.png)
 
-![image1](https://github.com/PranabKumarSahoo/customizable-to-do-list/blob/main/Website%20demo%20capture/image7.png)
+![image7](https://github.com/PranabKumarSahoo/customizable-to-do-list/blob/main/Website%20demo%20capture/image7.png)
 
-![image1](https://github.com/PranabKumarSahoo/customizable-to-do-list/blob/main/Website%20demo%20capture/image8.png)
+![image8](https://github.com/PranabKumarSahoo/customizable-to-do-list/blob/main/Website%20demo%20capture/image8.png)
