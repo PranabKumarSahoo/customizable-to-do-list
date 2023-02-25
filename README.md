@@ -1,4 +1,4 @@
-#To-do-list
+## Customizable To-do-list
 
 ## Inspiration
 This is the first Hackathon in my life where I had implemented my development skills. 
