@@ -20,4 +20,4 @@ And one more lesion that _How little we know, and how much we need to know._
 ## What's next for To-do-list
 Looking to upgrade that there must be a login system that user can login his/her personal account with this and save/continue their personal data whenever they want.
 
-Live Demo: [To-do-list](https://customizetodolist.netlify.app)
+Live: [Customize To-do-list](https://customizetodolist.netlify.app)
