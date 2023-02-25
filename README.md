@@ -1,11 +1,10 @@
-## Customizable To-do-list
+## Customizable To-do-list(Desktop Only)
 
 ### *Features*:
 
 * User-friendly
 * Local Storage Supported
 * Displays current Date and Time
-* Responsive, on all devices
 * Themes: Users can choose among different themes.
 
 ## Inspiration
