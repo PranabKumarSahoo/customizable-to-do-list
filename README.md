@@ -1,5 +1,7 @@
 ## Customizable To-do-list(Desktop Only)
 
+Live: [Customize To-do-list](https://customizetodolist.netlify.app)
+
 ### *Features*:
 
 * User-friendly
@@ -26,5 +28,4 @@ I learned all-round deep concepts of HTML, CSS & JavaScript including events, an
 And one more lesion that _How little we know, and how much we need to know._
 ## What's next for To-do-list
 Looking to upgrade that there must be a login system that user can login his/her personal account with this and save/continue their personal data whenever they want.
-
-Live: [Customize To-do-list](https://customizetodolist.netlify.app)
+Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the To-Dos can be viewed anywhere, anytime.
